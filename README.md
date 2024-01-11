@@ -5,7 +5,7 @@
 - private / publique
 - gitignore
 - commit de base
-
-  ## Faire un commit:
-  - des modifications
-  - utilisateur  / emprunte 
+  
+## Faire un commit:
+- des modifications
+- utilisateur  / emprunte 
