@@ -3,7 +3,9 @@
 Appliquer l'entête suivant aux fichiers sources:
 ```
 /*
- * Classname:
+ * Classname: 420-A14-BB ASSURANCE QUALITÉ ET TECHNIQUES DE TESTS
+ *
+ * Projet: Rapport de revue
  * 
  * Version information:
  *
