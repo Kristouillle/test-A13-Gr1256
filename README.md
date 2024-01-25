@@ -1,6 +1,6 @@
 # Règles de programmation
 ## Entête de fichier java
-Appliquer l'entête suivant au fichiers sources:
+Appliquer l'entête suivant aux fichiers sources:
 ```
 /*
  * Classname:
