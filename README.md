@@ -68,7 +68,7 @@ return isPrime(a);      /* works only for odd a */
 ```
 
 ## Déclarations
-## Bris de ligne
+### Bris de ligne
 Une déclaration par ligne est préféré vu que ça encourage les commentaires.  En d'autres mots,
 ```
 int level; // indentation level
@@ -78,10 +78,10 @@ est préféré à
 ```
 int level, size;
 ```
-## Initialisation
+### Initialisation
 Essayer d'initialiser une valeur à chaque variable dès leur déclaration.  La seule raison de ne pas en attribuer une est si sa valeur initiale dépend d'un calcul.
 
-## Placement
+### Placement
 Placer les déclarations directement au début des blocs.  N'attendez pas leur première utilisation.
 ```
 void maMethod() {
@@ -96,7 +96,7 @@ void maMethod() {
 > [!NOTE]
 > La seule exception est pour l'index des for loops, qui peut être déclaré directement dans le statement.
 
-## Classes et interfaces
+### Classes et interfaces
 Lors de la déclaration de classes ou d'interfaces Java, le guide de formattage suivant devrait être suivi:
 - Pas d'espace entre le nom de la méthode et la parenthèse "(" qui ouvre les paramètres
 - La braquette ouverte "{" devrait apparaitre à la fin de la même ligne que la ligne déclarative
